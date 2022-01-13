@@ -1,0 +1,16 @@
+Product ID	Product Desc.	    	Supplier  		Item Price  		Item Qty  	Reorder Point	Category  	 	UOM
+1		Paint-Brush	    	Paint-Tools-Corp.	75.00			1000		5		School-Supplies   	pack
+2		Poster-Paint  	    	BDS-Paint-Tools-Corp.	300.00			500		10		School-Supplies  	pack
+3		Ruler			Rulers-Company		400.00			2		10		School-Supplies  	box
+4		Highlighter		Highlights-Company	1500.00			250		15		School-Supplies  	box
+5		Bond-Paper		Advance-Paper-Corp.	1699.99			100		15		School-Supplies  	box
+6		Folder			ENVTEC-Co.		120.00			1000		5		School-Supplies	 	box
+7		ID-Holder 		Fabrica-MNL		100.00			10		5		School-Supplies  	pack
+8		Mechanical-Pencil	Mongol-Corp.		1699.99			100		15		School-Supplies  	sack
+9		Face-Mask		Masks-Co.		50.00			50		5		Medical		 	box
+10		Face-Shield		Masks-Co.		50.00			50		5		Medical		 	box
+11		Ballpen			G-Tech-Co.		85.00			100		5		School-Supplies	 	box
+12		Crayon			Crayola-Corp.		15.99			100		5		Art-Supplies	 	box
+13		Pencil			Mongol-Corp.		23.00			100		5		School-Supplies	 	pack
+14		Mars-Plastic-Eraser	DraftText-Corp.		45.00			100		5		School-Supplies	 	box
+15		Brown-Envelope		Evelope-Corp.		10.00			100		5		School-Supplies	 	box
